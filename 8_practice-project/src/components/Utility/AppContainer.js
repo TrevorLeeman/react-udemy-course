@@ -10,6 +10,7 @@ const AppContainer = styled.div`
   justify-content: center;
   background-color: rgb(36, 33, 54);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  overflow-y: auto;
 `
 
 export default AppContainer;

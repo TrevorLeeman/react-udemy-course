@@ -16,10 +16,10 @@ const UserList = (props) => {
     const usersOutput = props.userArray.map((userInfo, index) => <User key={index} username={userInfo.username} age={userInfo.age} deleteUser={deleteUser} id={index} />)
 
     return (
-        <Spacer mt="3em">
+        <Spacer mt="3em" pb="3em">
             <Card>
                 <StyledUserList>
-                    <Flex direction="column-reverse" gap="1.2em">
+                    <Flex flexDirection="column-reverse" gap="1.2em">
                         {usersOutput}
                     </Flex>  
                 </StyledUserList>

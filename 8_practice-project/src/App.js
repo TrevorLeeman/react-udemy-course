@@ -33,7 +33,7 @@ const App = () => {
 
   return (
     <AppContainer>
-      <Flex direction="column" alignItems="center">
+      <Flex flexDirection="column" alignItems="center">
         <Form addUser={addUser} showError={showModal}/>
         {userArray.length > 0 &&
           <UserList userArray={userArray} deleteUser={deleteUser}/>

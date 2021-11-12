@@ -39,7 +39,7 @@ const Modal = (props) => {
             <PositionModal>
                 <Card>
                     <StyledModal>
-                        <Flex direction="column" justifyContent="space-between">
+                        <Flex flexDirection="column" justifyContent="space-between">
                             <ModalMessage>{props.message}</ModalMessage>
                             <Button onClick={props.closeModal}>{props.buttonText ?? 'Close'}</Button>
                         </Flex>

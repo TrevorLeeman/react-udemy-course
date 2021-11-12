@@ -26,9 +26,9 @@ const Form = (props) => {
         let message = '';
         let valid = false;
 
-        if(username.trim().length == 0){
+        if(username.trim().length === 0){
             message = 'Please enter a username';
-        }else if(age.trim().length == 0){
+        }else if(age.trim().length === 0){
             message = 'Please enter an age';
         }else if(age <= 0){
             message = 'Age must be greater than 0';
