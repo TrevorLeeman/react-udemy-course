@@ -1,7 +1,7 @@
 # Self-Directed Practice Project
 
--Dive into Styled Components
--Reinforce React fundamentals
+- Dive into Styled Components
+- Reinforce React fundamentals
 
 ## Section
 
