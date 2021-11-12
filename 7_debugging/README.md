@@ -1,6 +1,7 @@
 # React Dev Tools and Debugging
 
-Follow along project for section 7 of the course.
+-Introduction to React Dev Tools extension
+-Setting up breakpoints in Chrome Dev Tools
 
 ## Section
 

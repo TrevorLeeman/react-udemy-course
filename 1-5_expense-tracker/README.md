@@ -1,6 +1,19 @@
 # Expense Tracking App
 
-Follow along project for sections 1 - 5 of the course.
+Learn the React core fundamentals, including:  
+-Creating components
+-Create-react-app
+-JSX
+-Props
+-"Children" prop
+-Event handling
+-useState() hook
+-Working with multiple state
+-Handling user input
+-Lifting state up
+-"Key" prop
+-Rendering lists
+-Conditional rendering
 
 ## Sections
 

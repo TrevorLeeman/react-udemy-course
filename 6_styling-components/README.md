@@ -1,6 +1,8 @@
-# Goal App
+# Dynamic Styles and Styled Components
 
-Follow along project for section 6 of the course.
+-Implementing dynamic styles
+-Using Styled Components library
+-CSS modules
 
 ## Section
 
